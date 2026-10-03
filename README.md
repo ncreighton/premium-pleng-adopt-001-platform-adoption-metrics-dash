@@ -1,0 +1,2 @@
+# premium-pleng-adopt-001-platform-adoption-metrics-dash
+Your platform is built, but adoption is stuck in neutral. Without visibility into who's actually using your internal tools and why they're not, you're flying blind while your engineering team wastes cycles on features nobody needs.  The Platform Adoption Metrics Dashboard transforms scattered adoption data into a single source of truth for platform
